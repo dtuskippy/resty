@@ -1,6 +1,6 @@
-# Lab-26
+# Lab-27
 
-## Testy - Phase 1
+## Testy - Phase 2
 
 ### Author: Alan Chelko
 
